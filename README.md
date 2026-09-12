@@ -19,6 +19,7 @@
 | [1327-last-person-to-fit-in-the-bus](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1625-group-sold-products-by-the-date) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1827-invalid-tweets) |
