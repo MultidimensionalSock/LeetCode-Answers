@@ -22,6 +22,7 @@
 | [1258-article-views-i](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1292-immediate-food-delivery-ii) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1390-average-selling-price](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1625-group-sold-products-by-the-date) |
