@@ -15,6 +15,7 @@
 | [1153-product-sales-analysis-i](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1258-article-views-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1292-immediate-food-delivery-ii) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
