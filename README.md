@@ -35,4 +35,5 @@
 | [1942-primary-department-for-each-employee](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/2087-confirmation-rate) |
 | [2110-employees-with-missing-information](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/2110-employees-with-missing-information) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
