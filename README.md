@@ -93,4 +93,12 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1791-richest-customer-wealth) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
