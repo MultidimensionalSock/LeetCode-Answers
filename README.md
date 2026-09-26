@@ -62,6 +62,7 @@
 | [0066-plus-one](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0066-plus-one) |
 | [1284-four-divisors](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1284-four-divisors) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1791-richest-customer-wealth](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [1284-four-divisors](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1284-four-divisors) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
