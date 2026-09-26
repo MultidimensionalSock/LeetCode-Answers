@@ -54,4 +54,12 @@
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/3379-score-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
