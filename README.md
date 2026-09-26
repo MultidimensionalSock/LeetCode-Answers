@@ -77,6 +77,7 @@
 | [0002-add-two-numbers](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0066-plus-one) |
 | [1284-four-divisors](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1284-four-divisors) |
+| [2491-smallest-even-multiple](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/2491-smallest-even-multiple) |
 ## Recursion
 |  |
 | ------- |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [2384-root-equals-sum-of-children](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/2384-root-equals-sum-of-children) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
