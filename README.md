@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
