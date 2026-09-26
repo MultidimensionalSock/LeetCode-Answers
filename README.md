@@ -53,6 +53,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0058-length-of-last-word) |
 | [3379-score-of-a-string](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
