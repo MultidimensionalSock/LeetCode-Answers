@@ -60,6 +60,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0066-plus-one) |
+| [1284-four-divisors](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1284-four-divisors) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,8 +74,17 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0066-plus-one) |
+| [1284-four-divisors](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1284-four-divisors) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0002-add-two-numbers) |
+## Prime Factorization
+|  |
+| ------- |
+| [1284-four-divisors](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1284-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1284-four-divisors](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1284-four-divisors) |
 <!---LeetCode Topics End-->
