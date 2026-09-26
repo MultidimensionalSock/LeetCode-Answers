@@ -63,6 +63,7 @@
 | [1284-four-divisors](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1284-four-divisors) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1791-richest-customer-wealth](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1791-richest-customer-wealth) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0066-plus-one](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0066-plus-one) |
 | [1284-four-divisors](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1284-four-divisors) |
 | [2491-smallest-even-multiple](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/2491-smallest-even-multiple) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
