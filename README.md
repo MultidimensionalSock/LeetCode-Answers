@@ -61,6 +61,7 @@
 | [0001-two-sum](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/0066-plus-one) |
 | [1284-four-divisors](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1284-four-divisors) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/MultidimensionalSock/LeetCode-Answers/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
